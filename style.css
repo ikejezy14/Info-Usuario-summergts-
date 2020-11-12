@@ -1,0 +1,16 @@
+.bg-strong-blue{
+  background-color: #003E91;
+}
+
+@media (max-width: 576px) { 
+  .bg-strong-blue h1{
+   font-size: 2.2em;
+   padding:0px !important;
+  }
+
+  .bg-strong-blue p{
+    text-align:center !important;
+    padding:0 !important;
+    margin-top: 30px;
+    
+}
