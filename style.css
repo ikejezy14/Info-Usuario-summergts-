@@ -10,7 +10,11 @@
 
   .bg-strong-blue p{
     text-align:center !important;
-    padding:0 !important;
     margin-top: 30px;
-    
+    padding:0px !important;
+  }
+
+  div .info{
+    padding:0px !important;
+  }
 }
